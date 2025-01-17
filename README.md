@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm Steven Hernandez!
+🚀 iOS Developer | Web Developer | Indie Creator
 
-<!--
-**stevendezc/stevendezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+💻 Passionate about crafting user-friendly mobile and web applications.
+🌱 Currently learning advanced iOS techniques and exploring profitable app niches.
+🎯 Dedicated to delivering elegant and scalable solutions.
+💼 Projects & Highlights
+📱 Your App Name: Baudo Ap.
+🌐 Your Web Project: 
+🔧 Tech Stack
+Languages: Swift, JavaScript, HTML/CSS
+Frameworks: SwiftUI, React, Node.js
+Tools: Xcode, Git, Figma
+Platforms: iOS, Web
+📈 GitHub Stats
 
-Here are some ideas to get you started:
+✨ Get in Touch
+🐦 Twitter: 
+💼 LinkedIn: 
+📧 Email: codez@mostros.co
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Coding is not just my profession, it's my playground."
